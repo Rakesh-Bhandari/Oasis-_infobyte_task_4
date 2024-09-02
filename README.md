@@ -1,7 +1,7 @@
 
 # Weather App 🌦️
 
-![Weather App Screenshot](link-to-your-screenshot) 
+![Weather App Screenshot](Screenshots/pic1.png) 
 
 A sleek and modern weather application built using CustomTkinter in Python. This app allows users to search for weather information by location, displaying real-time data such as temperature, wind speed, humidity, and more. The background and icons dynamically change based on weather conditions, providing an interactive user experience.
 
@@ -54,9 +54,9 @@ A sleek and modern weather application built using CustomTkinter in Python. This
 
 ## Screenshots
 
-<!-- Include some screenshots of your app running -->
-![Screenshot 1](link-to-your-screenshot1)
-![Screenshot 2](link-to-your-screenshot2)
+![Screenshot 1](Screenshots/pic2.png)
+![Screenshot 2](Screenshots/pic3.png)
+![Screenshot 2](Screenshots/pic4.png)
 
 ## Dependencies
 
