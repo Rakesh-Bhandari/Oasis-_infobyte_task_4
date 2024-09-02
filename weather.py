@@ -7,7 +7,7 @@ from PIL import Image,ImageTk
 import random
 from tkinter import messagebox
 
-API_KEY = "7bf7479c5aea6c265fca3ba21c6fd1d8"
+API_KEY = "API_Key"
 
 # Function to get coordinates using geopy
 def get_coordinates(location):
