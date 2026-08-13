@@ -17,8 +17,8 @@ A sleek and modern weather application built using CustomTkinter in Python. This
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/weather-app.git
-    cd weather-app
+    git clone https://github.com/Rakesh-Bhandari/Weather_App.git
+    cd Weather-App
     ```
 
 2. **Install the required Python libraries**:
